@@ -1,4 +1,4 @@
-# #include\<cmath>
+# #include\<math.h>
 
 > 介紹幾個此頭文件比較有可能用到的函式：
 
